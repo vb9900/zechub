@@ -283,3 +283,22 @@
 - Wallet Support: Unified Address 
 - Pools: Transparent | Sapling | Orchard
 - Features: End-to-end encrypted Messenger | NEAR Intents | P2P.me Offramp | Beta
+## [Zipher](https://forum.zcashcommunity.com/t/zipher-zcash-wallet-for-humans-and-agents-testflight-open-beta/55794)
+
+* Devices: Mobile | Desktop
+* Operating System: iOS | Android
+* Wallet Support: Seed Phrase | Unified Address
+* Pools: Transparent | Sapling | Orchard
+* Features: Shielded by default | Multi-account | AI agent support | CLI | Motion design ready
+
+---
+
+## [Zecd / Zend: Zcash Wallet] 
+
+(信息不足，可补充官网链接后更新)
+
+---
+
+## [Nozzy Wallet]
+
+(信息不足，可补充官网链接后更新)
